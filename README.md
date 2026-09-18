@@ -20,7 +20,6 @@ Line 1 of the LCD shows your text and scrolls after 15 characters. Line 2 shows 
 | 220 Ω resistor (LED, LCD backlight) | 2 |
 | Breadboard and jumper wires | — |
 
-Wiring is in [hardware/wiring.md](hardware/wiring.md).
 
 ## Repository layout
 
