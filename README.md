@@ -59,6 +59,11 @@ The timing values are at the top of the sketch.
 
 The decoder works as a standalone device. Planned next: a client–server mode that sends each committed letter to a program on a computer over USB serial.
 
+## Tinkercad Link
+
+This is the Tinkercad link if you want to get an idea of how this project works: 
+https://www.tinkercad.com/things/6T1Zf0Oa63X-morse-code-decoder?sharecode=LT8s0RABRKPRGWcb2b83oInAIXNfTNYT_qtFFEjb6z0
+
 ## License
 
 GPL-3.0-or-later. See [LICENSE](LICENSE).
